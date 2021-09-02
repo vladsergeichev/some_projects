@@ -1,78 +1,78 @@
 {
-  "type":"list_card",
-  "paddings":{
-    "top":"8x",
-    "bottom":"8x",
-    "left":"8x",
-    "right":"8x"
+  "type": "list_card",
+  "paddings": {
+    "top": "8x",
+    "bottom": "8x",
+    "left": "8x",
+    "right": "8x"
   },
-  "cells":[
+  "cells": [
     {
-      "type":"image_cell_view",
-      "content":{
-        "url":"https://va-res.online.sberbank.ru/VA/icons/cardsapp/A0677_digital_site_visa.png",
-        "size":{
-          "width":"small",
-          "aspect_ratio":0.63
+      "type": "image_cell_view",
+      "content": {
+        "url": "https://va-res.online.sberbank.ru/VA/icons/cardsapp/A0677_digital_site_visa.png",
+        "size": {
+          "width": "medium",
+          "aspect_ratio": 0.63
         }
       }
     },
     {
-      "type":"text_cell_view",
-      "content":{
-        "text":"Цифровая",
-        "typeface":"headline3",
-        "text_color":"default",
-        "max_lines":1,
-        "margins":{
-          "top":"8x"
+      "type": "text_cell_view",
+      "content": {
+        "text": "Цифровая",
+        "typeface": "headline3",
+        "text_color": "default",
+        "max_lines": 1,
+        "margins": {
+          "top": "8x"
         }
       }
     },
     {
-      "type":"text_cell_view",
-      "content":{
-        "text":"Бесплатно",
-        "typeface":"footnote1",
-        "text_color":"secondary",
-        "max_lines":1,
-        "margins":{
-          "top":"2x"
+      "type": "text_cell_view",
+      "content": {
+        "text": "Бесплатно",
+        "typeface": "footnote1",
+        "text_color": "secondary",
+        "max_lines": 1,
+        "margins": {
+          "top": "2x"
         }
       }
     },
     {
-      "type":"text_cell_view",
-      "content":{
-        "text":"Карта без пластика, которую не надо ждать, — пользуйтесь сразу после оформления",
-        "typeface":"footnote1",
-        "text_color":"default",
-        "max_lines":0,
-        "margins":{
-          "top":"8x"
+      "type": "text_cell_view",
+      "content": {
+        "text": "Карта без пластика, которую не надо ждать, — пользуйтесь сразу после оформления",
+        "typeface": "footnote1",
+        "text_color": "default",
+        "max_lines": 0,
+        "margins": {
+          "top": "8x"
         }
       }
     },
     {
-      "type":"button_cell_view",
-      "content":{
-        "text":"Перейти к оформлению",
-        "typeface":"button1",
-        "style":"default",
-        "type":"accept",
-        "actions":[
+      "type": "button_cell_view",
+      "content": {
+        "text": "Перейти к оформлению",
+        "typeface": "button1",
+        "style": "default",
+        "type": "accept",
+        "actions": [
           {
-            "type":"text",
-            "text":"Перейти к оформлению"
+            "type": "text",
+            "text": "Перейти к оформлению"
           }
         ],
-        "margins":{
-          "top":"5x",
-          "bottom":"5x"
+        "margins": {
+          "top": "5x",
+          "bottom": "5x"
         }
       },
-      "paddings":{
-        "top":"8x"
+      "paddings": {
+        "top": "8x"
       }
     }
   ]
