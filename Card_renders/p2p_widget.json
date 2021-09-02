@@ -251,7 +251,7 @@
       "left":{
         "icon":{
           "address":{
-            "identificator":"total",
+            "identificator":"card_mir",
             "type":"local"
           },
           "size":{
