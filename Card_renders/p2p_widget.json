@@ -13,7 +13,7 @@
         "icon":{
           "address":{
             "type":"local",
-            "identificator":"tinkoff"
+            "identificator":"user"
           },
           "size":{
             "width":"medium",
