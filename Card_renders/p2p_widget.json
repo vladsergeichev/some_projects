@@ -2,9 +2,9 @@
   "type": "list_card",
   "paddings": {
     "bottom": "4x",
-    "left": "0x",
-    "right": "0x",
-    "top": "4x"
+    "left": "8x",
+    "right": "8x",
+    "top": "8x"
   },
   "cells": [
     {
@@ -20,10 +20,7 @@
             "height": "medium"
           },
           "margins": {
-            "bottom": "5x",
-            "left": "8x",
-            "right": "6x",
-            "top": "5x"
+            "right": "6x"
           },
           "tint_color": "solid_brand"
         },
@@ -32,12 +29,6 @@
             "text": "Клиенту Тинькофф Банка",
             "typeface": "headline3",
             "text_color": "default",
-            "margins": {
-              "bottom": "0x",
-              "left": "0x",
-              "right": "0x",
-              "top": "9x"
-            },
             "max_lines": 1
           },
           "caption": {
@@ -46,10 +37,7 @@
             "text_color": "secondary",
             "max_lines": 1,
             "margins": {
-              "bottom": "2x",
-              "left": "0x",
-              "right": "0x",
-              "top": "2x"
+              "top": "1x"
             }
           }
         },
@@ -69,10 +57,7 @@
             "height": "medium"
           },
           "margins": {
-            "bottom": "5x",
-            "left": "8x",
-            "right": "6x",
-            "top": "5x"
+            "right": "6x"
           },
           "tint_color": "solid_brand"
         },
@@ -81,22 +66,14 @@
             "text": "Получатель",
             "typeface": "footnote1",
             "text_color": "secondary",
-            "max_lines": 0,
-            "margins": {
-              "bottom": "2x",
-              "left": "0x",
-              "right": "0x",
-              "top": "4x"
-            }
+            "max_lines": 0
           },
           "subtitle": {
             "text": "Кирилл П.",
             "typeface": "body1",
             "text_color": "default",
             "margins": {
-              "bottom": "2x",
-              "left": "0x",
-              "right": "0x",
+              "bottom": "1x",
               "top": "1x"
             },
             "max_lines": 1
@@ -105,12 +82,6 @@
             "text": "+7 (902) 100-00-05",
             "typeface": "footnote1",
             "text_color": "secondary",
-            "margins": {
-              "bottom": "4x",
-              "left": "0x",
-              "right": "0x",
-              "top": "0x"
-            },
             "max_lines": 1
           }
         },
@@ -122,19 +93,7 @@
           "text": "**1234",
           "typeface": "body1",
           "text_color": "default",
-          "margins": {
-            "bottom": "2x",
-            "left": "0x",
-            "right": "0x",
-            "top": "0x"
-          },
           "max_lines": 1
-        },
-        "margins": {
-          "bottom": "0x",
-          "left": "8x",
-          "right": "8x",
-          "top": "0x"
         },
         "vertical_gravity": "center",
         "detail_position": "top",
@@ -164,10 +123,7 @@
             "height": "medium"
           },
           "margins": {
-            "bottom": "5x",
-            "left": "8x",
-            "right": "6x",
-            "top": "5x"
+            "right": "6x"
           }
         },
         "texts": {
@@ -175,23 +131,15 @@
             "text": "Счет списания",
             "typeface": "footnote1",
             "text_color": "secondary",
-            "max_lines": 0,
-            "margins": {
-              "bottom": "2x",
-              "left": "0x",
-              "right": "0x",
-              "top": "6x"
-            }
+            "max_lines": 0
           },
           "subtitle": {
             "text": "MIR",
             "typeface": "body1",
             "text_color": "default",
             "margins": {
-              "bottom": "0x",
-              "left": "0x",
-              "right": "0x",
-              "top": "0x"
+              "bottom": "1x",
+              "top": "1x"
             },
             "max_lines": 1
           },
@@ -199,13 +147,7 @@
             "text": "****8454",
             "typeface": "footnote1",
             "text_color": "secondary",
-            "max_lines": 1,
-            "margins": {
-              "bottom": "4x",
-              "left": "0x",
-              "right": "0x",
-              "top": "2x"
-            }
+            "max_lines": 1
           }
         },
         "icon_vertical_gravity": "center",
@@ -216,19 +158,7 @@
           "text": "135 000 ₽",
           "typeface": "body1",
           "text_color": "brand",
-          "max_lines": 1,
-          "margins": {
-            "bottom": "0x",
-            "left": "0x",
-            "right": "0x",
-            "top": "2x"
-          }
-        },
-        "margins": {
-          "bottom": "0x",
-          "left": "8x",
-          "right": "8x",
-          "top": "0x"
+          "max_lines": 1
         },
         "vertical_gravity": "center",
         "detail_position": "top",
@@ -250,7 +180,7 @@
       "left": {
         "icon": {
           "address": {
-            "identificator": "total",
+            "identificator": "color_total",
             "type": "local"
           },
           "size": {
@@ -258,10 +188,7 @@
             "height": "medium"
           },
           "margins": {
-            "bottom": "0x",
-            "left": "8x",
-            "right": "6x",
-            "top": "16x"
+            "right": "6x"
           },
           "tint_color": "solid_brand"
         },
@@ -270,23 +197,15 @@
             "text": "Сумма списания",
             "typeface": "footnote1",
             "text_color": "secondary",
-            "max_lines": 0,
-            "margins": {
-              "bottom": "2x",
-              "left": "0x",
-              "right": "0x",
-              "top": "6x"
-            }
+            "max_lines": 0
           },
           "subtitle": {
             "text": "100 ₽",
             "typeface": "body1",
             "text_color": "default",
             "margins": {
-              "bottom": "0x",
-              "left": "0x",
-              "right": "0x",
-              "top": "0x"
+              "bottom": "1x",
+              "top": "1x"
             },
             "max_lines": 1
           },
@@ -294,13 +213,7 @@
             "text": "Комиссия 1,60 ₽",
             "typeface": "footnote1",
             "text_color": "warning",
-            "max_lines": 1,
-            "margins": {
-              "bottom": "0x",
-              "left": "0x",
-              "right": "0x",
-              "top": "2x"
-            }
+            "max_lines": 1
           }
         },
         "icon_vertical_gravity": "center",
@@ -328,16 +241,8 @@
         "type": "accept",
         "margins": {
           "bottom": "5x",
-          "left": "10x",
-          "right": "10x",
           "top": "5x"
         }
-      },
-      "paddings": {
-        "bottom": "8x",
-        "left": "6x",
-        "right": "6x",
-        "top": "12x"
       },
       "type": "button_cell_view"
     }
