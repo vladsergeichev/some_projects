@@ -1,0 +1,6 @@
+# Создание и активация окружения:
+#   python3 -m venv venv
+#   venv\Scripts\activate
+#
+# Узнать версию Python:
+#   python --version

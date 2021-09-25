@@ -2,6 +2,7 @@ class Soda:
     """
         Задача с сайта - https://smartiqa.ru/python-workbook/class#1
     """
+
     def __init__(self, ingredient):
         if isinstance(ingredient, str):
             self.ingredient = ingredient

@@ -1,7 +1,8 @@
 class TriangleChecker:
     """
-    Задача с сайта - https://smartiqa.ru/python-workbook/class#2
+        Задача с сайта - https://smartiqa.ru/python-workbook/class#2
     """
+
     def __init__(self, digits):
         self.digits = digits
 
